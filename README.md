@@ -13,5 +13,6 @@ Conway's Game of Life - CharlieFeatherwing 7x3
   hardware:
   -------
 
+  * 1 x Adafruit Feather M0 Express - ATSAMD21 Cortex M0 https://www.adafruit.com/product/3403
   * 21 x Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing - Green https://www.adafruit.com/product/3136
   * 2 x TCA9548A I2C Multiplexer https://www.adafruit.com/product/2717
