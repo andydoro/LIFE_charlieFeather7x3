@@ -7,13 +7,13 @@ This display is made from an upcycled manufacturing reject, a 7 by 3 PCB panel o
 
 Conway's Game of Life on 7 x 3 array of Charlieplex (7 x 15) Featherwings
   
-Features:
+Features
 -------
 * wrap or non-wrap world
 * ability to draw patterns 
 * respawn feature when oscillating / dead world is detected
 
-Hardware:
+Hardware
 -------
 
 * 1 x [Adafruit Feather M0 Express - ATSAMD21 Cortex M0](https://www.adafruit.com/product/3403)
